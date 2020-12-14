@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Itemcarro"
+        android:icon="@drawable/ic_person"
+        android:title="Carrito de compras" />
+    <item
+        android:id="@+id/Itemcuenta"
+        android:icon="@drawable/ic_person"
+        android:title="Mi Cuenta" />
+    <item
+        android:id="@+id/Itemlogout"
+        android:icon="@drawable/ic_person"
+        android:title="Cerrar Sesión" />
+</menu>
